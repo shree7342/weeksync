@@ -1,0 +1,21 @@
+{
+    "name": "shrikant/weeksync",
+    "description": "Keep your week in sync with this intuitive tool, ensuring seamless coordination and alignment across all your weekly plans, commitments, and deadlines.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shrikant\\Weeksync\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shrikant",
+            "email": "shrikantthombare1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4|^8.0"
+    }
+}
